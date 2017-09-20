@@ -4,8 +4,7 @@ public class Voiture {
   private Distance kilometresParcourus;
   
   public void rouler() {
-      Distance d = this.getDistance();
+      Distance d = this.getDistanceTemporaire();
       d.incrementer(10);
   }
-
 }
