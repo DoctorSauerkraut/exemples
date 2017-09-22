@@ -1,7 +1,7 @@
 Exercice 1
 
 On souhaite créer un programme de géométrie 2D et 3D.
-- Créez les classes Triangle, Carre, Pentagone et Polygone. 
+- Créez les classes Triangle, Carre, Pentagone et Rectangle. 
 - Quels sont les attributs nécessaires pour caractériser chaque forme de manière unique ?
 - Rajoutez ces attributs dans chaque classe.
 - Dans chaque classe, rajoutez une fonction getAire, qui calcule l'aire de la forme associée.
