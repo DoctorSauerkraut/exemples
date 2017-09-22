@@ -18,3 +18,5 @@ Exercice 3
 - Pour chaque forme géométrique 2D, comment assurer qu'il s'agit bien d'une forme fermée et complète ? 
 Concevez, pour chaque classe, une fonction en ce sens.
 
+Exercice 4
+Ecrire un programme Java qui calcule la dérivée d'un polynome de degré n.
