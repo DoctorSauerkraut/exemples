@@ -1,0 +1,12 @@
+On souhaite mettre en place une solution de calcul et d'édition de bulletins scolaires en ligne. 
+Il existe quatre modules différents : Mathématiques, Anglais, Physique, Histoire
+
+1 - Mettre en place un formulaire permettant de saisir les moyennes d'un étudiant. On proposera de saisir les informations suivantes :
+Nom, prénom, Moyennes en Mathématiques, Histoire, Physique, Anglais
+2 - Mettre en place un formulaire qui, à chaque nouvel étudiant saisi, recalcule la moyenne globale de chaque module
+3 - Prévoir une page d'affichage des moyennes de chaque étudiant
+4 - L'affichage des étudiants doit pouvoir permettre de les classer par moyenne générale ou bien par moyenne dans un module
+5 - Prévoir un bouton pour remettre la liste des étudiants à zéro.
+
+
+
