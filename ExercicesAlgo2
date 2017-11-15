@@ -1,0 +1,15 @@
+On souhaite implémenter un jeu de bataille ouverte. 
+
+Les règles sont les suivantes : 
+On joue avec un jeu de 52 cartes, toutes numérotées de 1 à 10 puis Valet, Dame, Roi, 
+selon les quatre couleurs Trèfle, Pique, Coeur et Carreau.
+L'as est la carte la plus forte, le 2 la plus faible.
+
+Chaque joueur, à tour de rôle, pose une carte puis le joueur adverse pose une carte. Le joueur ayant posé la carte la plus forte
+emporte l'écart des points (Un 10 contre un 2 vaut 8 points, par exemple). A la fin du tour, chaque joueur pioche une carte
+parmi les cartes restantes.
+
+Implémentez un programme qui permette à un joueur de jouer contre une IA, ou contre un autre joueur.
+L'IA sélectionnera automatiquement sa carte la plus forte systématiquement. 
+
+Puis faire de même avec deux IA s'affrontant l'une et l'autre.
